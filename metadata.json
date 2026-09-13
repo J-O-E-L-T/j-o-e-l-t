@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix NFL Football Pool",
+  "description": "40th Annual NFL Football Pool featuring zero-login mobile picks, legacy spreadsheet leaderboard, Elvis consensus auto-picks, and weekly dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
