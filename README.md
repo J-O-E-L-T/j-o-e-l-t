@@ -15,17 +15,16 @@ Automated Dispatch Pipeline: Designed an autonomous text-generation pipeline tha
 Off-Grid Telemetry & Predictive Fishing Platform (In Active Development)
 A field-ready environmental prediction tool running a six-vector analytical algorithm to calculate real-time feeding probabilities across the continental United States.
 Public Data Ingestion: Automatically queries and normalizes live environmental telemetry from USGS and public sensor networks based on nearest-point coordinates.
-Custom Mesh & LoRa Architecture: Built with proprietary embedded offline communication and GPS routing protocols compatible with LoRa hardware and Meshtastic topologiesâ€”enabling remote, zero-cellular situational awareness in the backcountry.
+Custom Mesh & LoRa Architecture: Built with proprietary embedded offline communication and GPS routing protocols compatible with LoRa hardware and Meshtastic topologies enabling remote, zero-cellular situational awareness in the backcountry.
 Computational RF & Antenna Design
 Practical RF design workflow bridging physical antenna geometry with theoretical simulation.
 Partnered with AI to bench-test concept sketches, evaluating structural dimensions, substrate materials, and electromagnetic radiation patterns against established RF physics models.
-Drastically compresses prototyping cycles by filtering early concepts down to high-performance candidates before cutting physical metal for bench verification.
-ðŸ›  Tech & Engineering Stack
+Drastically compresses prototyping cycles by filtering early concepts down to high-performance candidates before cutting physical metal for bench verification. Tech & Engineering Stack
 
 Software & Automation: JavaScript / Google Apps Script, API Integrations, Webhooks, Data Normalization Pipelines
 Hardware & RF: RF Antenna Prototyping, LoRa / Meshtastic Architectures, Off-Grid Sensor Networks, GPS Integration
 Workflow: AI-Augmented Rapid Prototyping, Git / GitHub, Systems Architecture
-ðŸ¤ GitHub Sponsors: Why Back My Work?
+GitHub Sponsors: Why Back My Work?
 
 Sponsorship directly sustains the transition of real-world physical and digital prototypes into thoroughly documented, production-ready tools:
 
