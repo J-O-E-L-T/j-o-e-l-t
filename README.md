@@ -9,7 +9,7 @@ Systems Builder | RF Designer | AI-Augmented Application Developer
 
 I specialize in building practical, resilient software and hardware systems by pairing deep domain expertise with advanced AI collaboration. From complex API integrations and automated dispatch workflows to off-grid mesh communications and computational RF antenna design, my focus is on turning ambitious technical concepts into reliable, field-ready tools.
 
-ðŸš€ Active Projects & Engineering Highlights
+Active Projects & Engineering Highlights
 
 Legacy Sports Automation Engine (Open Source Release)
 Re-engineered and automated a 40-year-old family and community tradition into a full-featured, digital management platform.
@@ -36,7 +36,6 @@ RF & Telemetry Prototyping: Funding bench-test materials, RF connectors, LoRa te
 Practical Documentation: Backing in-depth technical write-ups covering off-grid data routing, human-in-the-loop automation, and AI-accelerated RF modeling.
 Suggested Sponsor Tiers
 
-$5 / month â€“ Tip Jar & Community Supporter: Keeps the coffee hot and scripts running. Name listed on open-source project READMEs.
-$20 / month â€“ Hardware & RF Sustainer: Helps offset component costs for LoRa boards, test antennas, and field-sensor iterations.
-$75 / month â€“ Architecture Collaborator: Direct access to project discussions, early previews of off-grid communication experiments, and priority feature suggestions for open toolsets.
->>>>>>> parent of 48b5afc (Fix formatting issues in README.md)
+$5 / month Tip Jar & Community Supporter: Keeps the coffee hot and scripts running. Name listed on open-source project READMEs.
+$20 / month  Hardware & RF Sustainer: Helps offset component costs for LoRa boards, test antennas, and field-sensor iterations.
+$75 / month  Architecture Collaborator: Direct access to project discussions, early previews of off-grid communication experiments, and priority feature suggestions for open toolsets.
