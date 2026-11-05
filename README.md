@@ -7,7 +7,7 @@
 [![MeshMule-Core](https://img.shields.io/badge/Open_Source-MeshMule--Core_(915_MHz_DTN)-10b981.svg)](https://github.com/49Caliber-Labs/MeshMule-core)
 [![BiteWindow Vector7](https://img.shields.io/badge/Telemetry_Engine-BiteWindow_Vector7-00d2ff.svg)](https://github.com/49Caliber-Labs/bitewindow-vector7)
 [![RF Engineering](https://img.shields.io/badge/RF_Design-915_MHz_LoRa_%26_Antennas-ffb800.svg)](#3-computational-rf--antenna-design)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ff1e56.svg)](https://github.com/sponsors/J-O-E-L-T)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ff1e56.svg)](#-github-sponsors--research-grants-why-back-my-work)
 
 ---
 
